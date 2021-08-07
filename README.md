@@ -1,5 +1,5 @@
 # EndGame-DDOS-protection
-The famous EndGame by Dread Team for Darknet Websites to protect itself from darknet threats
+The famous EndGame DDOS protection for TOR by Dread Team for Darknet Websites to protect itself from DDOS threats
 
 This project is open-source , I am nor the developer or Owner of it - But I will keep updating the rep whenever there is a future update so don't depend on me for helping you to get it setup , go to dread and contact them for support 
 
